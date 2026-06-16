@@ -12,7 +12,7 @@ export default function Home({ setMood }) {
         playsInline
         className="absolute top-0 left-0 w-full h-full object-cover"
       >
-        <source src="/video/bg2.mp4" type="video/mp4" />
+        <source src="https://pub-eb4db51586d94241ae535594e7686b05.r2.dev/bg2.mp4" type="video/mp4" />
       </video>
 
       {/* Dark Overlay */}
